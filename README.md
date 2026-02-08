@@ -23,3 +23,6 @@
 - **EventX Studio**  
   Full-stack event management platform with authentication, role-based access, real-time analytics, and production deployment.
   [Check it here](https://drive.google.com/file/d/1X6j-ojjitH7uSAd91w1OaaoQWLWxTsJl/view?usp=sharing)
+
+---
+## Additional coursework and projects in data science, machine learning, web systems, and databases are available across the public repositories.
