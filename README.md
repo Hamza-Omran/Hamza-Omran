@@ -34,4 +34,4 @@
   Social network analysis of human PPI networks using Cytoscape and R, identifying critical antiviral proteins through centrality metrics (degree, betweenness, closeness, eigenvector).
 
 ---
-## Additional coursework and projects in databases, operating systems, optimization, and statistical modeling are available across public repositories.
+## Additional coursework and projects in databases, operating systems, optimization, statistical modeling, systems, and websites are available across public repositories.
